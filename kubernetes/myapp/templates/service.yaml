@@ -11,5 +11,4 @@ spec:
       protocol: TCP
       name: http
   selector:
-    matchLabel:
-      app: myapp
+    app: myapp
